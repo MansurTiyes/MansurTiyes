@@ -1,5 +1,3 @@
-## Hi, I'm Mansur 👋
-
 # 💫 About Me:
 🎓 Sophomore Computer Science student at the University of Southern California (Viterbi School of Engineering)<br>💡 Passionate about backend engineering, cloud infrastructure, and building creative, real-world solutions<br>🚀 Actively seeking Summer 2026 SWE internships (backend/cloud)<br>🌎 Lifelong learner with a love for music, travel, and exploring how technology connects people and ideas<br>🤝 Excited to collaborate, grow, and contribute to impactful projects in both academic and professional settings
 
